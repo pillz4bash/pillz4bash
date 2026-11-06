@@ -1,47 +1,47 @@
-# Hello, I'm pillz4bash
+# Hola, soy pillz4bash
 
-Software developer focused on web applications, backend engineering, and application security. I build reliable PHP/SQLite applications on Linux, automate development workflows, and care about clean code, security by design, and practical documentation.
+Desarrollador de software enfocado en aplicaciones web, ingeniería de backend y seguridad de aplicaciones. Construyo aplicaciones fiables con PHP/SQLite en Linux, automatizo flujos de trabajo de desarrollo y priorizo código limpio, seguridad por diseño y documentación práctica.
 
-## What I do
+## Qué hago
 
-- **Web development**: PHP 8+, vanilla HTML/CSS/JS, SQLite via PDO, Apache on Debian.
-- **Application security**: authentication, session management, CSRF, secure cookies, authorization, input validation, secure file handling.
-- **DevOps basics**: Linux administration, server hardening, backups, environment separation, logging.
-- **Automation**: reproducible setups, scripting for testing and diagnostics.
-- **Technical writing**: clear documentation, decision records, operational handbooks.
+- **Desarrollo web**: PHP 8+, HTML/CSS/JS vanilla, SQLite vía PDO, Apache en Debian.
+- **Seguridad de aplicaciones**: autenticación, gestión de sesiones, CSRF, cookies seguras, autorización, validación de entrada, manejo seguro de archivos.
+- **Fundamentos DevOps**: administración Linux, endurecimiento de servidor, copias de seguridad, separación de entornos, registro de eventos.
+- **Automatización**: configuraciones reproducibles, scripting para pruebas y diagnósticos.
+- **Redacción técnica**: documentación clara, registros de decisiones, manuales operativos.
 
-## Areas of interest
+## Áreas de interés
 
-- Secure web architecture and OWASP-aligned practices
-- PHP application hardening and performance
-- SQLite data integrity and migrations
-- Linux system administration for small services
-- Cybersecurity learning applied to real applications
-- Documentation as a first-class artifact
+- Arquitectura web segura y prácticas alineadas con OWASP
+- Endurecimiento y rendimiento de aplicaciones PHP
+- Integridad de datos en SQLite y migraciones
+- Administración Linux para servicios pequeños
+- Ciberseguridad aplicada al aprendizaje técnico real
+- Documentación como artefacto de primera clase
 
-## Tech stack
+## Tecnologías
 
 **Backend**: PHP 8.4, SQLite/PDO, Apache 2.4
-**Frontend**: HTML5, CSS3, vanilla JavaScript
-**Systems**: Debian, bash, SSH, Tailscale
-**Security**: password_hash/password_verify, CSRF tokens, HttpOnly/Secure/SameSite cookies, CSP, HSTS
-**Tools**: Git, OpenCode, local development environments
+**Frontend**: HTML5, CSS3, JavaScript vanilla
+**Sistemas**: Debian, bash, SSH, Tailscale
+**Seguridad**: password_hash/password_verify, tokens CSRF, cookies HttpOnly/Secure/SameSite, CSP, HSTS
+**Herramientas**: Git, OpenCode, entornos de desarrollo local
 
-## Philosophy
+## Filosofía
 
-- Investigate before changing. Evidence over assumptions.
-- Small, reversible changes with verification.
-- No secrets in repositories. Data and code separation.
-- Clear documentation and decision records.
+- Investigar antes de cambiar. Evidencia frente a suposiciones.
+- Cambios pequeños y reversibles con verificación.
+- Sin secretos en repositorios. Separación de datos y código.
+- Documentación clara y registros de decisiones.
 
-## Featured work
+## Trabajo destacado
 
-Projects are organized privately. Public work is shared responsibly with sanitized examples and no sensitive data.
+Los proyectos se organizan de forma privada. El trabajo público se comparte de forma responsable con ejemplos sanitizados y sin datos sensibles.
 
-## Contact
+## Contacto
 
-Profile updates through GitHub. For professional inquiries, open an issue in a related public repository.
+Actualizaciones del perfil a través de GitHub. Para consultas profesionales, abre un issue en un repositorio público relacionado.
 
 ---
 
-*Last updated: 2026-11-06*
+*Última actualización: 2026-11-06*
